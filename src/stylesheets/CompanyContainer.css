@@ -1,0 +1,15 @@
+#companyContainer {
+    background: linear-gradient(#5E5E66, #3D3F48);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5%;
+    border: 1px solid #8E909F;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5), -5px 10px 10px rgba(0, 0, 0, 0.5);
+    margin-bottom: 1rem;
+}
+
+#companyContainer img {
+    width: 100%;
+    padding: 1rem;
+}

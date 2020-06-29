@@ -1,0 +1,16 @@
+#hilightedMovieContainer {
+  width: 100%;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3), -5px 10px 10px rgba(0, 0, 0, 0.3);
+}
+
+#hilightedMovieContainer img {
+  width: 100%;
+}
+
+.section {
+  margin-top: 2rem;
+}
+
+h3 {
+  color: white;
+}

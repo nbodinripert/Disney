@@ -1,0 +1,12 @@
+.disneyPage {
+    background-color: #444750;
+    padding: 1.5rem;
+    box-sizing: border-box;
+    min-height: 100vh;
+}
+
+.progressView {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,19 @@
+#companyCatalogHeader {
+    width: 100%;
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#companyCatalogHeader img {
+    height: 100%;
+}
+
+#companyCatalogHeader div p {
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    margin: 0;
+    font-size: 1rem;
+}
